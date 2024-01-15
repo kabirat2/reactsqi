@@ -1,0 +1,85 @@
+.certi{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    gap: 80px; 
+    
+}
+
+.success{
+    width: 300px;
+    
+    /* line-height: 25px; */
+}
+.all img{
+    width: 350px;
+   /* margin-top: 50px;  */
+}
+.success h3{
+    font-family: Helvetica, Arial, Lucida, sans-serif;
+    font-size: 19px;
+    font-weight:700;
+    color: #000e42;   
+}
+
+.start1 h1{
+    font-family: Helvetica, Arial, Lucida, sans-serif;
+    font-size: 64px;
+    font-weight:700;
+    color: #000e42; 
+    /* margin-top: 10px; */
+    justify-content: center;
+    text-align: center;  
+}
+.success p:nth-child(3){
+    margin-top: 20px;
+    font-family: Helvetica, Arial, Lucida, sans-serif;
+    font-size: 18px;
+    font-weight:500;
+    color: #000e42;   
+}
+.success p:nth-child(4){
+    margin-top: 25px;
+    font-family: Helvetica, Arial, Lucida, sans-serif;
+    font-size: 18px;
+    font-weight:500;
+    color: #000e42; 
+    height: 40px;
+    width: 100px;
+    border-bottom: 3px solid #000e42;  
+}
+.diploma{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 80px;
+}
+.nat span{display: flex;
+    width: 350px;
+    color: #836866;
+    font-size:20px;
+    font-weight:500;
+   
+}
+.course{
+    margin-top:100px;
+
+}
+.nat p{
+    color: #836866;
+    font-size:16px;
+    text-align: center;
+}
+.nat{
+    margin-top: 30px;
+    height: 40px;
+    border-bottom: 1px solid #000e42; 
+    
+}
+.nat1 {
+    color: #836866;
+    font-size:20px;
+    /* text-align: center;  */
+    margin-top: 30px; 
+}

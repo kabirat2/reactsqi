@@ -2,12 +2,20 @@ import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
 import App from './App';
+import Home from './Home';
+import Line from './Line';
+import Admin from './Admin'
+import Micro from './Micro'
 import reportWebVitals from './reportWebVitals';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
     <App />
+    <Home/>
+    <Line/>
+    <Admin/>
+    <Micro/>
   </React.StrictMode>
 );
 

@@ -1,0 +1,40 @@
+.images3{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    gap: 150px;
+}
+
+.study2 h1 {
+    /* line-height: 70px; */
+    font-family: Helvetica, Arial, Lucida, sans-serif;
+    font-size: 34px;
+    font-weight: 600;
+    padding-top: 100px;
+    /* width: 400px; */
+    color: #000e42;
+}
+.study2 .National {
+   
+    font-family: Helvetica, Arial, Lucida, sans-serif;
+    font-size: 18px;
+    line-height: 29px;
+    font-weight: 500;
+    width: 500px;
+    margin-top: 10px;
+    color: #000e42;
+}
+.study2 .Nationals {
+   
+    font-family: Helvetica, Arial, Lucida, sans-serif;
+    font-size: 18px;
+    line-height: 29px;
+    font-weight: 500;
+    width: 500px;
+    margin-top: 10px;
+    color: #000e42;
+}
+.image2 img{
+    margin-top: 2opx;
+}

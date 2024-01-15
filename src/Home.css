@@ -1,0 +1,51 @@
+.background2 {
+    background-color: green;
+    width: 100%;
+    height: 100vh;
+}
+.background2 {
+    background-color: #fff;
+    width: 100%;
+    height: 100vh;
+}
+
+.study h1 {
+    /* line-height: 70px; */
+    font-family: Helvetica, Arial, Lucida, sans-serif;
+    font-size: 64px;
+    font-weight: 700;
+    padding-top: 150px;
+    width: 400px;
+    color: #000e42;
+}
+.study p {
+    /* line-height: 70px; */
+    font-family: Helvetica, Arial, Lucida, sans-serif;
+    font-size: 20px;
+    line-height: 29px;
+    font-weight: 500;
+    width: 600px;
+    color: #000e42;
+}
+.study button {
+    /* line-height: 70px; */
+    font-family: Helvetica, Arial, Lucida, sans-serif;
+    font-size: 20px;
+    line-height: 29px;
+    font-weight: 500;
+    background-color: #00208a;
+    width:170px;
+    height: 50px;
+    margin-top: 50px;
+    border-radius: 10px;
+    color: #fff;
+}
+.images{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+.image1{
+    margin-top: 100px;
+}

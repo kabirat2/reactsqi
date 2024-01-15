@@ -1,25 +1,37 @@
-import logo from './logo.svg';
+import image from './sqilogo.jpg';
 import './App.css';
 
-function App() {
+
+const App = () => {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div>
+    {
+    <div className='navbar'>
+      <div className='nav'>
+        <div className="bar">
+      <img src={image} alt="" />
+      <div className='about'>
+    <nav>
+      <ul>
+        <li>About</li>
+        <li>Programmes</li>
+        <li>Admissions</li>
+        <li>E-portal</li>
+        <li>SQI Scholarship</li>
+        <li>News</li>
+      </ul>
+    </nav>
+    </div>
+    </div>
+      </div>
+      <div className="background1">
+        
+      </div>
+      </div>
+    }
     </div>
   );
+
 }
 
 export default App;
